@@ -1,0 +1,9 @@
+{
+	"name": "Better Missing Art",
+	"author": "ckosmic",
+	"target": "Library",
+	"version": "v1.0",
+	"inject": {
+		"shared.css": ["SP"]
+	}
+}
