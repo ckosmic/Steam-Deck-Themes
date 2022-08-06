@@ -2,7 +2,7 @@
 	"name": "Smooth Missing Art",
 	"author": "ckosmic",
 	"target": "Library",
-	"version": "v1.1",
+	"version": "v1.0",
 	"inject": {
 		"shared.css": ["SP"]
 	}
